@@ -1,5 +1,5 @@
 # 📂 Portfolio de Data Engineering – Pablo Luberriaga
-
+--
 Bienvenido/a a mi repositorio general de **proyectos de Data Engineering**, donde desarrollo pipelines ETL/ELT, arquitecturas de datos, automatización de procesos, integración con APIs y creación de datasets listos para análisis y Machine Learning.
 ---
 
